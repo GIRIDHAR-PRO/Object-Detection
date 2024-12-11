@@ -16,9 +16,8 @@ Bounding boxes with labels for detected objects
 
 To run this project, you'll need to install the following dependencies:
 
-    pip install opencv-python
-
-    pip install numpy
+    pip install -r requirements.txt
+    
 ## Contributing
 
 Contributions are always welcome!
